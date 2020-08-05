@@ -1,6 +1,6 @@
 {
   "mongoURI": "mongodb+srv://chetan567:chetan567@devconnector.majw7.mongodb.net/<dbname>?retryWrites=true&w=majority",
-  "jwtSecretToken": "14569878924@Chetan",
+  "jwtSecretToken": "kbbdnvsdknvjnsdkjvkbskbvkbnnkvsdjvh",
   "githubClientId": "9e58b7c0a8a66ea91d90",
   "githubSecret": "8086c3bee323250bd34a573c7584a546f427ff81"
 }
